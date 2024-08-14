@@ -1,5 +1,5 @@
-# Bash-practice-1
-I have a mentor on IBM that has help em to improve my employment skills so I will share my practice of the Bash commands that I used on WSL for Linux 
+# Markdown-practice
+I have a mentor on IBM Career Conversation that has help me to improve my employment skills so I will share my practice of Markdown for documentirtn purposes.
 
 ## Practice of Markdown for documentations purposes on GitHub
 
@@ -9,7 +9,105 @@ I have a mentor on IBM that has help em to improve my employment skills so I wil
 - text formating
 - code
 - tables
-- links
+- blockquote
+- [links](#links)
 - images
 - autolists
 - lists
+
+### Reference used:
+https://www.markdownguide.org/basic-syntax/
+https://github.github.com/gfm/#tables-extension- 
+
+#### Undorered lists
+- foo
+- bar
++baz
+
+
+#### Ordered lists
+1. foo
+2. bar
+3) baz
+
+#### Text Formating
+_italics_
+*italics*
+**bold**
+__bold__
+~~strikethrough~~
+
+
+### Code
+#### Inline code 
+
+You can print to the terminal using the `puts "Hello world`" command.
+
+#### Multi line code 
+
+
+### Without highligting
+```
+def hello_world
+    puts "Hello World"
+end
+```
+### With Highlighting
+```rb
+def hello_world
+    puts "Hello World"
+end
+```
+
+
+### Tables
+ * 1. 
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
+* 2. 
+
+| abc | defghi |
+:-: | -----------------------:
+bar | baz
+
+* 3. 
+|abc | def |
+| --- | --- |
+| bar |
+| bar | baz | boo |
+
+* 4. 
+
+|abc | def |
+| --- | --- |
+
+### Block quotes
+
+> "this cloud is amazing" This will work to add notes or quoting someone.
+
+> # Foo
+> bar
+> baz
+
+   > # Foo
+   > bar
+ > baz
+
+    > # Foo
+    > bar
+    > baz
+
+### Links
+
+> You can link a specific part of the document by doing the following:
+ - [Example of part of the document](#name of what you'll like to link)
+
+[Github Website](https://github.com)
+[Secret page](Secret.md)
+
+### tasklist
+
+- [ ] Item 1
+- [x] Item 2
