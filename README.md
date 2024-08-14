@@ -1,5 +1,5 @@
 # Markdown-practice
-I have a mentor on IBM Career Conversation that has help me to improve my employment skills so I will share my practice of Markdown for documentirtn purposes.
+I have a mentor on IBM Career Conversation that has help me to improve my employment skills so I will share my practice of Markdown for documentirtn purposes. So this is the first step for me to continue with the Bash Practice I have made and document it. 
 
 ## Practice of Markdown for documentations purposes on GitHub
 
