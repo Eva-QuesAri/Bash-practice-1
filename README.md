@@ -3,3 +3,13 @@ I have a mentor on IBM that has help em to improve my employment skills so I wil
 
 ## Practice of Markdown for documentations purposes on GitHub
 
+- headings
+- undorered lists
+- order lists
+- text formating
+- code
+- tables
+- links
+- images
+- autolists
+- lists
